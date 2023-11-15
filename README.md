@@ -2,7 +2,7 @@
 
 ## Walkthrough video link
 
-[Link to video](https://drive.google.com/file/d/1ibC-3JbY_QNrqHFx80jsY1eA5dcmYrAL/view)
+[Link to video](https://drive.google.com/file/d/1wx4LIqtMBNnYzUqPSQU1LfjWZtla5VP0/view)
 
 ## User Story
 
